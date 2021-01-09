@@ -104,13 +104,7 @@ body {
   color: #026C86;
 }
 
-.footer{
-  display: flex;
-  text-align: center;
-  justify-content: center;
-  align-items: center;
-  
-}
+
 
 @keyframes fade {
   from {
